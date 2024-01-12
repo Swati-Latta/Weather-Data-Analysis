@@ -7,6 +7,28 @@ Weather data is a valuable source of information, providing insights into the dy
 ### Objective:
 The primary objective of this exploratory data analysis (EDA) is to uncover patterns, trends, and relationships within the weather data. By employing statistical and visual analysis techniques, we aim to extract meaningful insights that contribute to a deeper understanding of the atmospheric conditions during the observed period.
 
+# <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files| Description |
+| -------------   | ------------- |
+| **titanic_train_csv**  | This CSV file contains the data set of Weather.  |
+| **ML_PROJECT(LOGISTIC_REGRESSION)** | This  ipynb file contains the ML MODEL code. |
+
+
+ # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+
+
+    1. Started with downloading the data from Kaggle website.
+    
+    2. Load the data into Python Jyputer Notebook for further analysis. 
+    
+    3. Did the Data cleaning(EDA) part with the help of Pandas and NumPy.
+    
+    4. Performed in depth analysis of the data using Matplotlib & Seaborn Libraries , Created different charts from the data for better understanding of the data.
+    
+    <br>
+
+# <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
 
 ### Key Findings:
 
@@ -39,7 +61,8 @@ The primary objective of this exploratory data analysis (EDA) is to uncover patt
 
 The insights gained from this analysis have implications for a range of applications, including urban planning, agriculture, and emergency management. Understanding the temporal and spatial patterns of weather conditions is crucial for making informed decisions in various sectors.
 
-### Limitations and Further Research:
+#  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Limitations and Further Research:
+
 
 It is essential to acknowledge the limitations of our analysis, including potential biases in the dataset and the impact of localized weather phenomena. Further research could involve the integration of additional datasets and advanced modeling techniques for more accurate predictions.
 
