@@ -4,6 +4,10 @@
 ### Introduction: Data Analysis of Weather Data
 Weather data is a valuable source of information, providing insights into the dynamic and complex nature of our atmosphere. In this analysis, we delve into a comprehensive dataset capturing various meteorological parameters over a period of time. The dataset includes measurements such as temperature, humidity, wind speed, and visibility, offering a rich source of information for understanding weather patterns.
 
+
+![weather pic](https://github.com/Swati-Latta/Weather-Data-Analysis/assets/134490572/3dc4b1ff-18aa-4348-9d98-3ceb4c3d7e1c)
+
+
 ### Objective:
 The primary objective of this exploratory data analysis (EDA) is to uncover patterns, trends, and relationships within the weather data. By employing statistical and visual analysis techniques, we aim to extract meaningful insights that contribute to a deeper understanding of the atmospheric conditions during the observed period.
 
