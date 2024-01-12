@@ -16,7 +16,7 @@ The primary objective of this exploratory data analysis (EDA) is to uncover patt
 | Files| Description |
 | -------------   | ------------- |
 | **Weather Data.csv**  | This CSV file contains the data set of Weather.  |
-| **Weather Data Analysis.ipynb** | This  ipynb file contains the ML MODEL code. |
+| **Weather Data Analysis.ipynb** | This  ipynb file contains the EDA code. |
 
 
  # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
